@@ -11,6 +11,7 @@ Welcome to diary's documentation!
    :caption: Contents:
 
    about
+   2024/index
 
 Indices and tables
 ==================
