@@ -5,3 +5,4 @@
    :maxdepth: 2
 
    春/contents
+   notebook/SCENIC Protocol
